@@ -9,7 +9,7 @@ ai-first: true
 ## For future Gemini
 Project documentation for the Quick Capture Telegram bot deployment.
 
-# Project: Workflow WhatsApp/Telegram Bot (Quick Capture)
+# Project: Telelog (Quick Capture)
 
 ## 1. Project Overview & Objective
 A quick-capture bot to instantly log thoughts, ideas, links, clips, or notes from your mobile device directly into your Obsidian second brain. It must:
@@ -59,3 +59,11 @@ We have two main deployment routes for a 24/7 Python Telegram bot:
 * **API Integrations:** Writing Python wrappers for the Notion API and integration with Antigravity commands.
 * **Deployment Setup:** Providing configuration files (e.g., `vercel.json` or Dockerfiles) to deploy the bot 24/7 seamlessly.
 * **Troubleshooting:** Pinpointing environment and path routing issues during local run and deployment.
+
+---
+
+## 5. Core Accomplishments (as of 2026-07-22)
+* **Vercel Webhook Deployment**: Deployed a stateless FastAPI python server to Vercel (supporting `telelog-capture.vercel.app`), serving as the webhook receiver for Telegram.
+* **Bidirectional Vault Sync**: Wired up bidirectional syncing using Git and GitHub API. Captures from the phone are pushed to GitHub instantly, and the local PC pulls them down daily.
+* **Robust Append Engine**: Fixed local filesystem/remote content collisions in the cloud, allowing safe appending to existing daily notes without overwriting.
+* **Notion Task Integration**: Synced focus tasks to Notion database and enabled status synchronization from vault checklist markings back to Notion.
