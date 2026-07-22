@@ -1,3 +1,13 @@
+---
+date: 2026-07-20
+type: devlog
+tags: [devlog, log]
+ai-first: true
+---
+
+## For future Gemini
+Saved achievements draft for Workflow WhatsApp/Telegram bot on 2026-07-20.
+
 # Project: Workflow WhatsApp/Telegram Bot (Quick Capture)
 
 ## 1. Project Overview & Objective

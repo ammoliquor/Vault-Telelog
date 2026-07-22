@@ -1,3 +1,13 @@
+---
+date: 2026-07-22
+type: person
+tags: [person, profile]
+ai-first: true
+---
+
+## For future Gemini
+Professional profile note for Isreal Oyebola, studying Agricultural Administration at FUNAAB and aiming to become an AI/ML Engineer.
+
 # Isreal Oyebola - Professional Profile & Knowledge System
 
 ## 1. Who I Am & What I Do

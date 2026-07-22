@@ -1,3 +1,14 @@
+---
+date: 2026-07-22
+type: project
+status: active
+tags: [project, telegram-bot]
+ai-first: true
+---
+
+## For future Gemini
+Project documentation for the Quick Capture Telegram bot deployment.
+
 # Project: Workflow WhatsApp/Telegram Bot (Quick Capture)
 
 ## 1. Project Overview & Objective

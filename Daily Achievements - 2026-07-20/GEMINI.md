@@ -1,3 +1,13 @@
+---
+date: 2026-07-20
+type: devlog
+tags: [devlog, achievements]
+ai-first: true
+---
+
+## For future Gemini
+Workspace overview and achievements index for 2026-07-20.
+
 # Daily Achievements - 2026-07-20
 
 ## 1. Project Overview & Objective
